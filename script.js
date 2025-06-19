@@ -22,7 +22,7 @@ $(function () {
   ];
   const albumArtworks = ["_1"];
   const trackUrl = [
-    "https://github.com/seikenista/musicplayer/blob/94b989f1fdaed940cecfd3ab56b6eb457a362cf3/p3pintro.mp3"
+    "https://seikenista.github.io/music/p3pintro.mp3"
   ];
 
   let bgArtworkUrl,
