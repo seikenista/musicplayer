@@ -15,26 +15,14 @@ $(function () {
   const playPreviousTrackButton = $("#play-previous");
   const playNextTrackButton = $("#play-next");
   const albums = [
-    "Me & You",
-    "Dawn",
-    "Electro Boy",
-    "Home",
-    "Proxy (Original Mix)"
+    "Persona 3 Portable Original Soundtrack"
   ];
   const trackNames = [
-    "Alex Skrindo - Me & You",
-    "Skylike - Dawn",
-    "Kaaze - Electro Boy",
-    "Jordan Schor - Home",
-    "Martin Garrix - Proxy"
+    "Soul Phrase"
   ];
-  const albumArtworks = ["_1", "_2", "_3", "_4", "_5"];
+  const albumArtworks = ["_1"];
   const trackUrl = [
-    "https://singhimalaya.github.io/Codepen/assets/music/1.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/2.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/3.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/4.mp3",
-    "https://singhimalaya.github.io/Codepen/assets/music/5.mp3"
+    "https://github.com/seikenista/musicplayer/blob/94b989f1fdaed940cecfd3ab56b6eb457a362cf3/p3pintro.mp3"
   ];
 
   let bgArtworkUrl,
